@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">I'm Jaša Šuster from Slovenia.<br><br>- 🔭 I’m an Informatics and Data Technologies Student at FERI Maribor and an intern at PIA d.o.o. with a Bachelor's degree in Computer Science <br>- 📚 I'm currently learning Vue.js<br>- ⚡ In my free time I like to go to the gym and play video games.</p>
 
+<!--
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -26,3 +27,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
+-->
